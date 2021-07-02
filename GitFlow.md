@@ -31,7 +31,8 @@ De esta forma todos sabemos a primer vista quién ha hecho la tarea, qué tarea 
 - La dinámica ya la conocéis, pero lo pongo aqui. 
         
 ``` git add <nombre-archivo> 
-    git commit -m "FRONT-1000: WIP <comentario-en-ingles>" ``` 
+    git commit -m "FRONT-1000: WIP <comentario-en-ingles>" 
+``` 
         
 FRONT-1000 -> El código de la tarea
 WIP -> WORK IN PROGRESS se pone solo si la tarea no se ha terminado 
@@ -58,7 +59,9 @@ Si os parece las primeras veces hasta que veamos todos cómo se hace me podéis 
 
 - Una vez tenemos nuestra rama lista hay que hacer push para subirlo a github
         
-``` git push ```
+``` 
+  git push 
+```
         
 Si es la primera vez os indicará que teneis que usar un comando más completo para crear la rama en github. 
 Copiais lo que os sugiere y lanzais esa instrucción
