@@ -11,6 +11,7 @@ Pongo un ejemplo:
 - Vamos a empezar a trabajar con el login 
 - Podemos generar la rama FRONT-1000-Main que va a partir de develop
                      
+
 ``` fetch --all   (en develop para conseguir todas las ramas) ```
 ``` git checkout FRONT-1000-Main  (para situaros en esta rama) ```
             
