@@ -7,7 +7,8 @@
 
     Copiar la carpeta build al servidor
     
-    ``` scp -r -i ~/Downloads/<nombre-archivo>.pem build ubuntu@52.54.213.161:~/ ```
+    ``` scp -P 8022 -r -i ~/Downloads/guardianes_pro.pem build ubuntu@4events.net:~/
+ ```
 
     En el servidor se ha creado un enlace simbólico dentro de /home/usrapp/front
 
