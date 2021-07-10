@@ -3,7 +3,7 @@
 
 ## Front 
 
-    ``` PUBLIC_URL=http://ec2-52-54-213-161.compute-1.amazonaws.com/ npm run build ```
+    ``` PUBLIC_URL=https://4events.net/ npm run build ```
 
     Copiar la carpeta build al servidor
     
